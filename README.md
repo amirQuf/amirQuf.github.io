@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# amirQuf.github.io
-=======
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -68,4 +65,4 @@
   <!-- Add any necessary scripts -->
 </body>
 </html>
->>>>>>> 0a9b93e2881fcd8e909d37206c335fac57835cc4
+
