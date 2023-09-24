@@ -28,13 +28,12 @@
       <li>Golang</li>
       <li>Docker</li>
       <li>Linux</li>
-      
       <li>Js</li>
       <li>Design Patterns</li>
       <li>Git</li>
       <li>Vue Js</li>
       <li>HTML,CSS,Bootstrap</li>
-      <!-- Add more skills -->
+      
     </ul>
   </section>
 
